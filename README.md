@@ -2,4 +2,4 @@
 
 -- Assets
 
-<a href = "t.me/Telegram">
+<a href = "t.me/Telegram"></a>
